@@ -34,6 +34,7 @@ public class Evento {
         this.numMaxPartecipanti = numMaxPartecipanti;
     }
 
+
     public long getId() {
         return id;
     }
